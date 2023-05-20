@@ -1,0 +1,14 @@
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\bin\Debug\net6.0\ValueObject.EFSample.deps.json
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\bin\Debug\net6.0\ValueObject.EFSample.runtimeconfig.json
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\bin\Debug\net6.0\ValueObject.EFSample.dll
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\bin\Debug\net6.0\ValueObject.EFSample.pdb
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\obj\Debug\net6.0\ValueObject.EFSample.csproj.AssemblyReference.cache
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\obj\Debug\net6.0\ValueObject.EFSample.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\obj\Debug\net6.0\ValueObject.EFSample.AssemblyInfoInputs.cache
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\obj\Debug\net6.0\ValueObject.EFSample.AssemblyInfo.cs
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\obj\Debug\net6.0\ValueObject.EFSample.csproj.CoreCompileInputs.cache
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\obj\Debug\net6.0\ValueObject.EFSample.dll
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\obj\Debug\net6.0\refint\ValueObject.EFSample.dll
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\obj\Debug\net6.0\ValueObject.EFSample.pdb
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\obj\Debug\net6.0\ValueObject.EFSample.genruntimeconfig.cache
+F:\Source\Samples\ValueObject.Samples\ValueObject.EFSample\obj\Debug\net6.0\ref\ValueObject.EFSample.dll

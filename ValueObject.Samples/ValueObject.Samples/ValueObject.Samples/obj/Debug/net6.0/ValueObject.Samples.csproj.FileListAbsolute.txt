@@ -1,0 +1,12 @@
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\bin\Debug\net6.0\ValueObject.Samples.deps.json
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\bin\Debug\net6.0\ValueObject.Samples.dll
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\bin\Debug\net6.0\ValueObject.Samples.pdb
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\obj\Debug\net6.0\ValueObject.Samples.csproj.AssemblyReference.cache
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\obj\Debug\net6.0\ValueObject.Samples.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\obj\Debug\net6.0\ValueObject.Samples.AssemblyInfoInputs.cache
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\obj\Debug\net6.0\ValueObject.Samples.AssemblyInfo.cs
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\obj\Debug\net6.0\ValueObject.Samples.csproj.CoreCompileInputs.cache
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\obj\Debug\net6.0\ValueObject.Samples.dll
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\obj\Debug\net6.0\refint\ValueObject.Samples.dll
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\obj\Debug\net6.0\ValueObject.Samples.pdb
+F:\Source\Samples\ValueObject.Samples\ValueObject.Samples\obj\Debug\net6.0\ref\ValueObject.Samples.dll

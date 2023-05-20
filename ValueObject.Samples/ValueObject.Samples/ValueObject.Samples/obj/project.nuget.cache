@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "goE5wdDJy87LFTFOoMxaMW3jcUh6sOkH9td3LAsC7OoCcHxuV9a6BYw8/7hx8sTPSOizofew0rSN0gp808ILYg==",
+  "success": true,
+  "projectFilePath": "E:\\.Net\\NikAmooz\\Microservice\\Session 9 Value Object\\Session 9\\Sample\\ValueObject.Samples\\ValueObject.Samples\\ValueObject.Samples\\ValueObject.Samples.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}
