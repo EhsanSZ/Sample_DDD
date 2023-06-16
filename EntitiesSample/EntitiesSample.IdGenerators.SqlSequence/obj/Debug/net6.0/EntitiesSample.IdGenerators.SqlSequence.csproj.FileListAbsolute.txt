@@ -1,0 +1,15 @@
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\bin\Debug\net6.0\EntitiesSample.IdGenerators.SqlSequence.deps.json
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\bin\Debug\net6.0\EntitiesSample.IdGenerators.SqlSequence.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\bin\Debug\net6.0\EntitiesSample.IdGenerators.SqlSequence.pdb
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\bin\Debug\net6.0\EntitiesSample.IdGenerators.Contract.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\bin\Debug\net6.0\EntitiesSample.IdGenerators.Contract.pdb
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\obj\Debug\net6.0\EntitiesSample.IdGenerators.SqlSequence.csproj.AssemblyReference.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\obj\Debug\net6.0\EntitiesSample.IdGenerators.SqlSequence.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\obj\Debug\net6.0\EntitiesSample.IdGenerators.SqlSequence.AssemblyInfoInputs.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\obj\Debug\net6.0\EntitiesSample.IdGenerators.SqlSequence.AssemblyInfo.cs
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\obj\Debug\net6.0\EntitiesSample.IdGenerators.SqlSequence.csproj.CoreCompileInputs.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\obj\Debug\net6.0\EntitiesSample.IdGenerators.SqlSequence.csproj.CopyComplete
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\obj\Debug\net6.0\EntitiesSample.IdGenerators.SqlSequence.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\obj\Debug\net6.0\refint\EntitiesSample.IdGenerators.SqlSequence.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\obj\Debug\net6.0\EntitiesSample.IdGenerators.SqlSequence.pdb
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.SqlSequence\obj\Debug\net6.0\ref\EntitiesSample.IdGenerators.SqlSequence.dll

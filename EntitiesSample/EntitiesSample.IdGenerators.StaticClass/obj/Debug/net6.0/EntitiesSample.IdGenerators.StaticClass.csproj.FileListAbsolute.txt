@@ -1,0 +1,15 @@
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\bin\Debug\net6.0\EntitiesSample.IdGenerators.StaticClass.deps.json
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\bin\Debug\net6.0\EntitiesSample.IdGenerators.StaticClass.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\bin\Debug\net6.0\EntitiesSample.IdGenerators.StaticClass.pdb
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\bin\Debug\net6.0\EntitiesSample.IdGenerators.Contract.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\bin\Debug\net6.0\EntitiesSample.IdGenerators.Contract.pdb
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\obj\Debug\net6.0\EntitiesSample.IdGenerators.StaticClass.csproj.AssemblyReference.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\obj\Debug\net6.0\EntitiesSample.IdGenerators.StaticClass.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\obj\Debug\net6.0\EntitiesSample.IdGenerators.StaticClass.AssemblyInfoInputs.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\obj\Debug\net6.0\EntitiesSample.IdGenerators.StaticClass.AssemblyInfo.cs
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\obj\Debug\net6.0\EntitiesSample.IdGenerators.StaticClass.csproj.CoreCompileInputs.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\obj\Debug\net6.0\EntitiesSample.IdGenerators.StaticClass.csproj.CopyComplete
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\obj\Debug\net6.0\EntitiesSample.IdGenerators.StaticClass.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\obj\Debug\net6.0\refint\EntitiesSample.IdGenerators.StaticClass.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\obj\Debug\net6.0\EntitiesSample.IdGenerators.StaticClass.pdb
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.StaticClass\obj\Debug\net6.0\ref\EntitiesSample.IdGenerators.StaticClass.dll

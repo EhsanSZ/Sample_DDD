@@ -1,0 +1,12 @@
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\bin\Debug\net6.0\EntitiesSample.IdGenerators.Contract.deps.json
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\bin\Debug\net6.0\EntitiesSample.IdGenerators.Contract.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\bin\Debug\net6.0\EntitiesSample.IdGenerators.Contract.pdb
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\obj\Debug\net6.0\EntitiesSample.IdGenerators.Contract.csproj.AssemblyReference.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\obj\Debug\net6.0\EntitiesSample.IdGenerators.Contract.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\obj\Debug\net6.0\EntitiesSample.IdGenerators.Contract.AssemblyInfoInputs.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\obj\Debug\net6.0\EntitiesSample.IdGenerators.Contract.AssemblyInfo.cs
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\obj\Debug\net6.0\EntitiesSample.IdGenerators.Contract.csproj.CoreCompileInputs.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\obj\Debug\net6.0\EntitiesSample.IdGenerators.Contract.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\obj\Debug\net6.0\refint\EntitiesSample.IdGenerators.Contract.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\obj\Debug\net6.0\EntitiesSample.IdGenerators.Contract.pdb
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Contract\obj\Debug\net6.0\ref\EntitiesSample.IdGenerators.Contract.dll

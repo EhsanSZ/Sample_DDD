@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gAR52YA/XCxPI6E/QDj/MciPu9bCha5Sjy09DRv3euTAKtzbtfl+HvZeIuXNCWbcY+wOsHxUC5dXeeDZHJMs2g==",
+  "success": true,
+  "projectFilePath": "E:\\.Net\\NikAmooz\\Microservice\\Session 10 Entities\\Session 10\\4 - Sample\\EntitiesSample\\EntitiesSample.Validations\\EntitiesSample.Validations.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

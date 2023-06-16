@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "EntitiesSample.IdGenerators.Contract/1.0.0": {
+        "runtime": {
+          "EntitiesSample.IdGenerators.Contract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "EntitiesSample.IdGenerators.Contract/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

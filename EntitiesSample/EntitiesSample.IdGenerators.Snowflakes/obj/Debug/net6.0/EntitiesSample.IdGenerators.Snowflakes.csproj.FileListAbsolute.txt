@@ -1,0 +1,15 @@
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\bin\Debug\net6.0\EntitiesSample.IdGenerators.Snowflakes.deps.json
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\bin\Debug\net6.0\EntitiesSample.IdGenerators.Snowflakes.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\bin\Debug\net6.0\EntitiesSample.IdGenerators.Snowflakes.pdb
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\bin\Debug\net6.0\EntitiesSample.IdGenerators.Contract.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\bin\Debug\net6.0\EntitiesSample.IdGenerators.Contract.pdb
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\obj\Debug\net6.0\EntitiesSample.IdGenerators.Snowflakes.csproj.AssemblyReference.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\obj\Debug\net6.0\EntitiesSample.IdGenerators.Snowflakes.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\obj\Debug\net6.0\EntitiesSample.IdGenerators.Snowflakes.AssemblyInfoInputs.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\obj\Debug\net6.0\EntitiesSample.IdGenerators.Snowflakes.AssemblyInfo.cs
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\obj\Debug\net6.0\EntitiesSample.IdGenerators.Snowflakes.csproj.CoreCompileInputs.cache
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\obj\Debug\net6.0\EntitiesSample.IdGenerators.Snowflakes.csproj.CopyComplete
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\obj\Debug\net6.0\EntitiesSample.IdGenerators.Snowflakes.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\obj\Debug\net6.0\refint\EntitiesSample.IdGenerators.Snowflakes.dll
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\obj\Debug\net6.0\EntitiesSample.IdGenerators.Snowflakes.pdb
+F:\Source\Samples\EntitiesSample\EntitiesSample.IdGenerators.Snowflakes\obj\Debug\net6.0\ref\EntitiesSample.IdGenerators.Snowflakes.dll

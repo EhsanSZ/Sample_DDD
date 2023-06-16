@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "fu1v69PPWE8MnNiau3RV3RO+h0nHV7bqJ1TyMy6Z6wOxTTYP9AVwCbQqRoQUemG41ZWFwU6nuzRUGaWV88U7NA==",
+  "success": true,
+  "projectFilePath": "E:\\.Net\\NikAmooz\\Microservice\\Session 10 Entities\\Session 10\\4 - Sample\\EntitiesSample\\EntitiesSample.IdGenerators.Snowflakes\\EntitiesSample.IdGenerators.Snowflakes.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\6.0.0\\microsoft.extensions.configuration.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\snowflake.core\\2.0.0\\snowflake.core.2.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\Ehsan\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

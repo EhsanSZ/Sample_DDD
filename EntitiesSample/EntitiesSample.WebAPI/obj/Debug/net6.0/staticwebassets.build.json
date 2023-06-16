@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "N7+3/gOI7GL+NjnZkGYqSZ9VRvU7zJjr+TIoR0EGDeg=",
+  "Source": "EntitiesSample.WebAPI",
+  "BasePath": "_content/EntitiesSample.WebAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
