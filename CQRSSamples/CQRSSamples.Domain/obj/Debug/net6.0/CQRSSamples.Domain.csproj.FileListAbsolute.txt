@@ -1,0 +1,15 @@
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\bin\Debug\net6.0\CQRSSamples.Domain.deps.json
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\bin\Debug\net6.0\CQRSSamples.Domain.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\bin\Debug\net6.0\CQRSSamples.Domain.pdb
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\obj\Debug\net6.0\CQRSSamples.Domain.csproj.AssemblyReference.cache
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\obj\Debug\net6.0\CQRSSamples.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\obj\Debug\net6.0\CQRSSamples.Domain.AssemblyInfoInputs.cache
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\obj\Debug\net6.0\CQRSSamples.Domain.AssemblyInfo.cs
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\obj\Debug\net6.0\CQRSSamples.Domain.csproj.CoreCompileInputs.cache
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\obj\Debug\net6.0\CQRSSamples.Domain.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\obj\Debug\net6.0\refint\CQRSSamples.Domain.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\obj\Debug\net6.0\CQRSSamples.Domain.pdb
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\obj\Debug\net6.0\ref\CQRSSamples.Domain.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\bin\Debug\net6.0\CQRSSamples.Framework.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\bin\Debug\net6.0\CQRSSamples.Framework.pdb
+F:\Source\Samples\CQRSSamples\CQRSSamples.Domain\obj\Debug\net6.0\CQRSSamples.Domain.csproj.CopyComplete

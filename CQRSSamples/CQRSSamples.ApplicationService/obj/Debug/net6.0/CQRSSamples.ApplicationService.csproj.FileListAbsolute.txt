@@ -1,0 +1,17 @@
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\bin\Debug\net6.0\CQRSSamples.ApplicationService.deps.json
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\bin\Debug\net6.0\CQRSSamples.ApplicationService.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\bin\Debug\net6.0\CQRSSamples.ApplicationService.pdb
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\bin\Debug\net6.0\CQRSSamples.Domain.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\bin\Debug\net6.0\CQRSSamples.Framework.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\bin\Debug\net6.0\CQRSSamples.Domain.pdb
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\bin\Debug\net6.0\CQRSSamples.Framework.pdb
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\obj\Debug\net6.0\CQRSSamples.ApplicationService.csproj.AssemblyReference.cache
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\obj\Debug\net6.0\CQRSSamples.ApplicationService.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\obj\Debug\net6.0\CQRSSamples.ApplicationService.AssemblyInfoInputs.cache
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\obj\Debug\net6.0\CQRSSamples.ApplicationService.AssemblyInfo.cs
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\obj\Debug\net6.0\CQRSSamples.ApplicationService.csproj.CoreCompileInputs.cache
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\obj\Debug\net6.0\CQRSSamples.ApplicationService.csproj.CopyComplete
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\obj\Debug\net6.0\CQRSSamples.ApplicationService.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\obj\Debug\net6.0\refint\CQRSSamples.ApplicationService.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\obj\Debug\net6.0\CQRSSamples.ApplicationService.pdb
+F:\Source\Samples\CQRSSamples\CQRSSamples.ApplicationService\obj\Debug\net6.0\ref\CQRSSamples.ApplicationService.dll

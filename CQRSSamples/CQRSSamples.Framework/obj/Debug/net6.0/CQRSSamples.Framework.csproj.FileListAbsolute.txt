@@ -1,0 +1,12 @@
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\obj\Debug\net6.0\CQRSSamples.Framework.csproj.AssemblyReference.cache
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\obj\Debug\net6.0\CQRSSamples.Framework.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\obj\Debug\net6.0\CQRSSamples.Framework.AssemblyInfoInputs.cache
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\obj\Debug\net6.0\CQRSSamples.Framework.AssemblyInfo.cs
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\obj\Debug\net6.0\CQRSSamples.Framework.csproj.CoreCompileInputs.cache
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\bin\Debug\net6.0\CQRSSamples.Framework.deps.json
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\bin\Debug\net6.0\CQRSSamples.Framework.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\bin\Debug\net6.0\CQRSSamples.Framework.pdb
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\obj\Debug\net6.0\CQRSSamples.Framework.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\obj\Debug\net6.0\refint\CQRSSamples.Framework.dll
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\obj\Debug\net6.0\CQRSSamples.Framework.pdb
+F:\Source\Samples\CQRSSamples\CQRSSamples.Framework\obj\Debug\net6.0\ref\CQRSSamples.Framework.dll
