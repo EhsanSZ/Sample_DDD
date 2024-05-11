@@ -1,0 +1,15 @@
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\obj\Debug\net6.0\AggregatesSamples.Introdutions.csproj.AssemblyReference.cache
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\obj\Debug\net6.0\AggregatesSamples.Introdutions.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\obj\Debug\net6.0\AggregatesSamples.Introdutions.AssemblyInfoInputs.cache
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\obj\Debug\net6.0\AggregatesSamples.Introdutions.AssemblyInfo.cs
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\obj\Debug\net6.0\AggregatesSamples.Introdutions.csproj.CoreCompileInputs.cache
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\bin\Debug\net6.0\AggregatesSamples.Introdutions.deps.json
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\bin\Debug\net6.0\AggregatesSamples.Introdutions.dll
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\bin\Debug\net6.0\AggregatesSamples.Introdutions.pdb
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\bin\Debug\net6.0\AggregatesSamples.Framework.dll
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\bin\Debug\net6.0\AggregatesSamples.Framework.pdb
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\obj\Debug\net6.0\AggregatesSamples.Introdutions.csproj.CopyComplete
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\obj\Debug\net6.0\AggregatesSamples.Introdutions.dll
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\obj\Debug\net6.0\refint\AggregatesSamples.Introdutions.dll
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\obj\Debug\net6.0\AggregatesSamples.Introdutions.pdb
+F:\Source\Samples\AggregatesSamples\AggregatesSamples.Introdutions\obj\Debug\net6.0\ref\AggregatesSamples.Introdutions.dll
