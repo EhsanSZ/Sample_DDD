@@ -1,0 +1,34 @@
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Dal.deps.json
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Dal.dll
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Dal.pdb
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Domain.dll
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Framework.dll
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Domain.pdb
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Framework.pdb
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.csproj.AssemblyReference.cache
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.AssemblyInfoInputs.cache
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.AssemblyInfo.cs
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.csproj.CoreCompileInputs.cache
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.csproj.CopyComplete
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.dll
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\refint\EventSourcingSample.Dal.dll
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.pdb
+F:\Source\Samples\EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\ref\EventSourcingSample.Dal.dll
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Dal.deps.json
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Dal.dll
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Dal.pdb
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Domain.dll
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Framework.dll
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Domain.pdb
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\bin\Debug\net6.0\EventSourcingSample.Framework.pdb
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.csproj.AssemblyReference.cache
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.GeneratedMSBuildEditorConfig.editorconfig
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.AssemblyInfoInputs.cache
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.AssemblyInfo.cs
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.csproj.CoreCompileInputs.cache
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.csproj.CopyComplete
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.dll
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\refint\EventSourcingSample.Dal.dll
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\EventSourcingSample.Dal.pdb
+F:\Source\ProMicroservice\14. EventSourcingSample\EventSourcingSample.Dal\obj\Debug\net6.0\ref\EventSourcingSample.Dal.dll
